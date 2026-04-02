@@ -35,12 +35,3 @@
 </p>
 
 ---
-
-##  Как меня найти
-<div align="left">
-  <a href="https://vk.com/nikitos_0808" target="_blank">
-    <img src="https://img.shields.io/badge/VK-%234680C2?style=for-the-badge&logo=vk&logoColor=white" />
-  </a>
-</div>
-
----
