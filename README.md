@@ -4,11 +4,11 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Developer%20&%20Storyteller&fontSize=70&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&width=500&lines=Пишу+высокопроизводительный+код+на+Rust;Разрабатываю+на+C%23+и+.NET;Упорядочиваю+проекты+в+Obsidian)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&width=500&lines=Пишу+высокопроизводительный+код+на+Rust;Разрабатываю+на+C%23+;Упорядочиваю+истории+днд+в+Obsidian)](https://git.io/typing-svg)
 
 </div>
 
-## 🛠 Технологии и инструменты
+## Технологии и инструменты
 
 **Языки и Backend:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -24,7 +24,7 @@
 
 ---
 
-## 📊 Моя активность на GitHub
+##  Моя активность на GitHub
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nadont02&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
