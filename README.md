@@ -31,6 +31,21 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nadont02&layout=compact&theme=vision-friendly-dark" />
 </p>
 
+---
+
+##  Как меня найти
+<div align="left">
+  <a href="https://t.me/@Nadont" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_НИК&theme=vision-friendly-dark" alt="streak stats" />
+</p>
+
 <!--
 **Nadont02/Nadont02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
