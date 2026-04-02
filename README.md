@@ -35,7 +35,7 @@
 
 ##  Как меня найти
 <div align="left">
-  <a href="https://t.me/@Nadont" target="_blank">
+  <a href="https://vk.com/nikitos_0808" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
@@ -43,7 +43,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_НИК&theme=vision-friendly-dark" alt="streak stats" />
+  <img src="https://img.shields.io/badge/VK-%234680C2?style=for-the-badge&logo=vk&logoColor=white" />
 </p>
 
 <!--
