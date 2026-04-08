@@ -4,7 +4,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Вeginner+Developer%20&%20Storyteller&fontSize=70&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&width=500&lines=Пишу+высокопроизводительный+код+на+Rust;Разрабатываю+на+C%23+;Упорядочиваю+истории+днд+в+Obsidian)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&width=500&lines=Артур+балбес;Разрабатываю+на+C%23+;Упорядочиваю+истории+днд+в+Obsidian)](https://git.io/typing-svg)
 
 </div>
 
